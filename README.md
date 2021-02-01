@@ -1,0 +1,1 @@
+Melakukan perbandingan performa dari setiap cabang di berbagai kota. Memfilter hanya 5 besar performa terbesar di Pulan Jawa,yaitu order size, customer count, product count, brand count, dan total belanja per bulan.
